@@ -4,7 +4,6 @@
 .class
 *.json
 
-.mvn
 /target/
 
 ##### Never push this one
